@@ -1,6 +1,7 @@
 # download package manager from this url 
 https://adoptium.net/installation/linux/
 
+21 version jdk
 
 # then jenkins from here 
 https://www.jenkins.io/doc/book/installing/linux/
